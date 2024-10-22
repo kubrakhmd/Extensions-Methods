@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Extensions methods\\Extensions methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7771DA13-E046-4BB0-8473-863BD2488FAD}|Extensions methods\\Extensions methods.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\extensions methods\\extensions methods\\extensions methods\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7771DA13-E046-4BB0-8473-863BD2488FAD}|Extensions methods\\Extensions methods.csproj|solutionrelative:extensions methods\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7771DA13-E046-4BB0-8473-863BD2488FAD}|Extensions methods\\Extensions methods.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\extensions methods\\extensions methods\\extensions methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7771DA13-E046-4BB0-8473-863BD2488FAD}|Extensions methods\\Extensions methods.csproj|solutionrelative:extensions methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Extensions methods\\Extensions methods\\Extensions methods\\Helper.cs",
+              "RelativeDocumentMoniker": "Extensions methods\\Helper.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Extensions methods\\Extensions methods\\Extensions methods\\Helper.cs",
+              "RelativeToolTip": "Extensions methods\\Helper.cs",
+              "ViewState": "AgIAACoAAABAkoxFNUwWwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:36:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Extensions methods\\Extensions methods\\Extensions methods\\Program.cs",
+              "RelativeDocumentMoniker": "Extensions methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\Extensions methods\\Extensions methods\\Extensions methods\\Program.cs",
+              "RelativeToolTip": "Extensions methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:36:14.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

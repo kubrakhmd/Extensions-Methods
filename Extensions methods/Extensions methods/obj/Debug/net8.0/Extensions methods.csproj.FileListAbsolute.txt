@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\bin\Debug\net8.0\Extensions methods.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\bin\Debug\net8.0\Extensions methods.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\bin\Debug\net8.0\Extensions methods.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\bin\Debug\net8.0\Extensions methods.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\bin\Debug\net8.0\Extensions methods.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\refint\Extensions methods.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\Extensions methods.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Extensions methods\Extensions methods\Extensions methods\obj\Debug\net8.0\ref\Extensions methods.dll
